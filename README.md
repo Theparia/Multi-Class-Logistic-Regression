@@ -1,11 +1,8 @@
 # Multi-Class-Logistic-Regression
 
 
-This project implements a Multiclass Logistic Regression classifier using the One-vs-Rest (OvR) strategy. It allows you to tackle multiclass classification problems by breaking them down into multiple binary classification tasks.
+This project implements a Multiclass Logistic Regression classifier using the One-vs-Rest (OvR) strategy. The OvR method allows you to tackle multiclass classification problems by breaking them down into multiple binary classification tasks.
 
-## Introduction
-
-Multiclass classification involves categorizing data into more than two classes or categories. The OvR method is a common approach for solving multiclass problems using binary classifiers. This project provides a versatile implementation of Multiclass Logistic Regression with the OvR strategy.
 
 ## Key Characteristics
 
